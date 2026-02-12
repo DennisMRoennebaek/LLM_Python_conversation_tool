@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Runtime downloads
+runtime/
+
+# Temp audio files
+*.wav
+
+# Env files
+.env
